@@ -1,8 +1,11 @@
 ---
-theme: jekyll-theme-minimal
-title: LandMitPot Study Sharing Page
-description: sharing plots, in particular interactive plots
+theme: jekyll-theme-minima
+title: Long-term Scenarios for the Global Mitigation Potential of Land
+description: Supplementary Material for [DOI…]
 include:
  - _pages
  - .htaccess
 ---
+
+
+test test bliblablu
