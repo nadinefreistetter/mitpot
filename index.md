@@ -3,20 +3,20 @@ layout: default
 title: Home
 ---
 
-<p style="color: #21918c;">Select a plot from the menu below to view it.</p>
+Select an item from the menu below to view it.
 
-
-## Interactive Plots
+<br><br>
+### Interactive Plots
 
 - [Figure 1. Net Emissions vs. Temperature in 2100](netemis_T2100_trendlines_interactive.html)
 - [Figure 1. Net Emissions vs. Temperature in 2100](netemis_T2100_trendlines_interactive.html)
 
-
-## Supplementary Plots
+<br><br>
+### Supplementary Plots
 - [Figure 1. Net Emissions vs. Temperature in 2100](netemis_T2100_trendlines_interactive.html)
 
-
-## More
+<br><br>
+### Explore more
 - [Figure 1. Net Emissions vs. Temperature in 2100](netemis_T2100_trendlines_interactive.html)
 
 
