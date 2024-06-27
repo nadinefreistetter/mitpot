@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<p style="color: #333;">Select a plot from the menu below to view it.</p>
+<p style="color: #21918c;">Select a plot from the menu below to view it.</p>
 
 
 ## Interactive Plots
