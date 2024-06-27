@@ -8,3 +8,5 @@ title: Home
 Select a plot from the menu above to view it.
 
 [Interactive Plot](interactive_plot.html)
+
+THIS IN THE INDEX.md FILE
