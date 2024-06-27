@@ -1,7 +1,0 @@
-<!-- _includes/nav.html -->
-<div class="nav">
-    <a href="{{ "/" | relative_url }}">Home</a>
-    <a href="{{ "/interactive_plot1.html" | relative_url }}">Interactive Plot 1</a>
-    <a href="{{ "/interactive_plot2.html" | relative_url }}">Interactive Plot 2</a>
-    <a href="{{ "/interactive_plot3.html" | relative_url }}">Interactive Plot 3</a>
-</div>
