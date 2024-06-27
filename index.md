@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Select an item from the menu below to view it.
+Select an item below to view it.
 
 <h3 style="color: #808080;">Interactive Plots</h3>
 
