@@ -2,15 +2,20 @@
 layout: default
 title: Home
 ---
+# Select a plot
 
-# Interactive and Supplementary Plots
+## Interactive Plots from [DOI]
 
-Supplementary Material for [DOI...]
+[Dummy / Test](interactive_plot.html)
 
-Select a plot from the menu below to view it.
+[Figure 1. Net Emissions vs. Temperature in 2100](netemis_T2100_trendlines_interactive.html)
 
-[Interactive Test Plot](interactive_plot.html)
 
+## Supplementary Plots from [DOI]
+[Figure 1. Net Emissions vs. Temperature in 2100](netemis_T2100_trendlines_interactive.html)
+
+
+## More
 [Figure 1. Net Emissions vs. Temperature in 2100](netemis_T2100_trendlines_interactive.html)
 
 
