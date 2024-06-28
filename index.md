@@ -10,6 +10,7 @@ Select an item below to view it.
 - [Figure 1 a). Land Flux vs. Temperature Rise (Diet-marked)](IA_Fig_1a.html)
 - [Figure 1 b). Land Flux vs. Temperature Rise (Biodiversity-marked)](IA_Fig_1b.html)
 <br>
+
 - [Figure 2 a). Interaction Terms vs. Temperature Rise (Diet-marked)](IA_Fig_2a.html)
 - [Figure 2 b). Interaction Terms vs. Temperature Rise (Biodiversity-marked)](IA_Fig_2b.html)
 
