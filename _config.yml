@@ -1,3 +1,7 @@
 title: Global Land Mitigation Potential
 description: test
 theme: jekyll-theme-dinky
+header_pages:
+  - index.md
+  - IA_Fig_3.html
+  - IA_Fig_2a.html
