@@ -5,7 +5,7 @@ title: Home
 
 Select an item below to view it.
 <br>
-<h3 style="color: #808080;">Interactive Plots</h3>
+<h3 style="color: #808080;">Interactive Plots (in development)</h3>
 
 - [Figure 1 a). Land Flux vs. Temperature Rise (Diet-marked)](IA_Fig_1a.html)
 - [Figure 1 b). Land Flux vs. Temperature Rise (Biodiversity-marked)](IA_Fig_1b.html)
