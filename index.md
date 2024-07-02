@@ -14,6 +14,8 @@ Select an item below to view it.
 - [Figure 2 a). Interaction Terms vs. Temperature Rise (Diet-marked)](IA_Fig_2a.html)
 - [Figure 2 b). Interaction Terms vs. Temperature Rise (Biodiversity-marked)](IA_Fig_2b.html)
 
+- [Figure 3  ). Median cumulative net emissions of land](IA_Fig_3.html)
+
 <br>
 <h3 style="color: #808080;">Supplementary Plots</h3>
 - [Test](IA_Fig_1a.html)
