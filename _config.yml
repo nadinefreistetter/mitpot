@@ -17,4 +17,14 @@ header_pages:
   - index.md
   - IA_Fig_3.html
   - IA_Fig_2a.html
+
+
+# Navigation links
+nav:
+  - name: Home
+    link: /
+  - name: Plotly Plot
+    link: /IA_Fig_3.html
+  - name: Figure 2a whoop
+    link: /IA_Fig_2a.html
 ---
