@@ -16,7 +16,7 @@ Select an item below to view it.
 <br>
 
 - [Figure 3  ). Median cumulative net emissions of land](IA_Fig_3.html)
-- - [Figure 3  ). Median cumulative net emissions of land](IA_Fig_3.html)
+- [Figure 3  ). Median cumulative net emissions of land](IA_Fig_3.html)
 
 <br>
 <h3 style="color: #808080;">Supplementary Plots</h3>
