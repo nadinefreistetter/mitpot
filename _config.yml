@@ -11,4 +11,10 @@ navigation:
     url: /IA_Fig_3.html
   - title: Figure 2a
     url: /IA_Fig_2a.html
+
+# Header links
+header_pages:
+  - index.md
+  - IA_Fig_3.html
+  - IA_Fig_2a.html
 ---
