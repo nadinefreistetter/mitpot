@@ -2,29 +2,8 @@
 theme: jekyll-theme-minima
 title: Global Land Mitigation Potential
 description: Long-term Scenarios: <br>Interactive Plots & <br>Supplementary Material <br><br>from: <br>Freistetter et al. <br>(2024, manuscript in <br>preparation)<br><br><br><br><br><br><br><br>
----
-# Navigation links
-navigation:
-  - title: Home
-    url: /
-  - title: Figure 3
-    url: /IA_Fig_3.html
-  - title: Figure 2a
-    url: /IA_Fig_2a.html
-
-# Header links
 header_pages:
   - index.md
   - IA_Fig_3.html
   - IA_Fig_2a.html
-
-
-# Navigation links
-nav:
-  - name: Home
-    link: /
-  - name: Plotly Plot
-    link: /IA_Fig_3.html
-  - name: Figure 2a whoop
-    link: /IA_Fig_2a.html
 ---
