@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cumulative CO2 Atmosphere-Land Flux</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <h1>Cumulative CO2 Atmosphere-Land Flux between 2020 and 2100</h1>
+
+    <!-- Plotly plot -->
+    <div id="plotly-div">
+        <!-- This div will be filled with the Plotly plot -->
+    </div>
+
+    <!-- Additional text -->
+    <p>This plot was calculated in a way that... . This plot shows us that ... .</p>
+
+    <!-- Load the Plotly plot HTML -->
+    <script>
+        fetch('IA_Fig_3.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('plotly-div').innerHTML = data;
+            });
+    </script>
+</body>
+</html>
