@@ -1,5 +1,12 @@
----
 theme: jekyll-theme-minimal
 title: Global Land Mitigation Potential
 description: Long-term Scenarios: <br>Interactive Plots & <br>Supplementary Material <br><br>from: <br>Freistetter et al. <br>(2024, manuscript in <br>preparation)<br><br><br><br><br><br><br><br>
----
+
+# Navigation links
+navigation:
+  - title: Home
+    url: /
+  - title: Figure 3
+    url: /IA_Fig_3.html
+  - title: Figure 2a
+    url: /IA_Fig_2a.html
