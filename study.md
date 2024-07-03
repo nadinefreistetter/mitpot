@@ -18,7 +18,7 @@ These pages present results from a study by Freistetter et al. (2024, manuscript
 - Forest fire risk
 
 <br><br>
-<h3 style="color: #808080;">The SuCCESs IA-Model</h3>
+<h3 style="color: #808080;">The SuCCESs Model</h3>
 
 In this study, we used the SuCCESs integrated assessment model, which is a new, lightweight optimization model designed to evaluate global climate change solutions (Ekholm et al., 2024, manuscript in preparation). 
 
@@ -31,7 +31,7 @@ The model's outputs include the projected global temperature rise above pre-indu
 ![SuCCESs schematic](images/success_schematic_cute.png){: width="600px"}
 
 <br><br>
-The model has four main parts: Energy, Materials, Land-Use and Climate. These parts enable a broad analysation of feedback mechanisms of employing one or multiple mitigation strategies at once.
+The model has four main parts: Energy, Materials, Land-Use and Climate. These parts enable a broad analysis of (beneficial or detrimental) feedback mechanisms when employing multiple mitigation strategies at once.
 <br>
 
 
