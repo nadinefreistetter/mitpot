@@ -19,6 +19,6 @@ layout: default
 
 
 <br><br>
-Land-based climate solutions like reforestation and afforestation compete with food, biomaterial, and bioenergy production for land. Thus, the availability of land for climate mitigation largely depends on societal choices and lifestyles.
+Land-based climate solutions like reforestation and afforestation compete for land with food, biomaterial, and bioenergy production. Thus, the availability of land for climate mitigation largely depends on societal choices and lifestyles.
 <br><br>
 Find out more about our research here!
