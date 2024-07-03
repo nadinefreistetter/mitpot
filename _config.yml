@@ -1,5 +1,5 @@
 title: Global Land Mitigation Potential
 description: test
-remote_theme: minima
+theme: minima
 header_pages:
   - about.md
