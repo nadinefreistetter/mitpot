@@ -1,5 +1,5 @@
 ---
-title: The Study
+title: Study
 layout: page
 permalink: /study/
 ---
@@ -27,7 +27,7 @@ It calculates scenarios from 2020 to 2100, fulfilling global needs for products 
 The model's outputs include the projected global temperature rise above pre-industrial levels, emissions of CO2, CH4, and N2O, and the composition of the energy mix.
 <br><br>
 
-<div style="text-align: center"><img src="images/success_schematic_cute.png" width="75%" /></div>
+<div style="text-align: center"><img src="images/success_schematic_cute.png" /></div>
 
 
 <br><br>
