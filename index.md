@@ -5,6 +5,8 @@ layout: default
 
 How much can global land contribute to climate change mitigation under varying land-consuming lifestyles?
 
+<iframe src="Success_major_biomes.png" width="800" height="600"></iframe>
+
 Land-based climate solutions, such as afforestation, compete for land with food, biomaterial, and bioenergy production. Thus, the availability of climate change-mitigating land depends heavily on societal decisions and lifestyles.
 
 
