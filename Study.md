@@ -18,9 +18,13 @@ These pages show results of a study on the global climate mitigation performance
 
 <br><br>
 <h3 style="color: #808080;">The SuCCESs IA-Model</h3>
-In this study, we employed the SuCCESs integrated assessment model (Ekholm T. et al., 2024, manuscript in preparation) - a new, lightweight optimazation model able to assess global climate change mitigation options. It calculates long-term sceanrios (2020-2100) satisfying global demands for climate-relevant products and services, such as transportation, plant and livestock-based foods, fossil and renewable types of energy, bio-based and fossil materials for industry and construction, and more. Its output includes, among many things, the decadal global mean temperature rise (above pre-industrial measures), emissions of CO2, CH4 and N2O and the energy mix.
+In this study, we used the SuCCESs integrated assessment model, which is a new, lightweight optimization model designed to evaluate global climate change solutions (Ekholm et al., 2024, manuscript in preparation). 
+
+It calculates long-term scenarios from 2020 to 2100, addressing global needs for products and services that impact the climate, such as transportation, plant and livestock-based foods, fossil and renewable energy, and bio-based and fossil materials for industry and construction. 
+
+The model's outputs include the projected global temperature rise above pre-industrial levels, emissions of CO2, CH4, and N2O, and the composition of the energy mix.
 <br><br>
-![Success Schematic](images/success_schematic_cute.png){: width="300px"}
+![Success Schematic](images/success_schematic_cute.png){: width="800px"}
 <br><br>
 The model has four main parts: Energy, Materials, Land-Use and Climate. These parts enable a broad analysation of feedback mechanisms of employing one or multiple mitigation strategies at once.
 <br>
