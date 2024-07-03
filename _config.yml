@@ -1,12 +1,7 @@
-title: Global Land Mitigation Potential
-description: Long-term Scenarios <br>Interactive Plots & <br>Supplementary Material <br><br>from <br>Freistetter et al. <br>(2024, manuscript in <br>preparation)
+title: What influences the Global Climate Change Mitigation Potential of Land?
+description: Freistetter N.C., Ekholm T., Partanen A.I. (2024, manuscript in preparation)
 theme: minima
 header_pages:
+  - About.md
   - Figures.md
-  - about.md
-  - Figures.md
-  - about.md
-  - Figures.md
-  - about.md
-  - Figures.md
-  - about.md
+  
