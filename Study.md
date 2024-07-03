@@ -5,7 +5,8 @@ permalink: /study/
 ---
 
 <br>
-These pages show results of a study on the global climate mitigation performance of land, conducted by Freistetter et al. (2024, manuscript in preparation).
+These pages present results from a study by Freistetter et al. (2024, manuscript in preparation) on how much land can help mitigate global climate change.
+
 <br><br>
 <h3 style="color: #808080;">800+ Scenarios</h3>
  We assessed a total of 864 scenarios combining different scenarios from the scenario domains 
@@ -18,9 +19,10 @@ These pages show results of a study on the global climate mitigation performance
 
 <br><br>
 <h3 style="color: #808080;">The SuCCESs IA-Model</h3>
+
 In this study, we used the SuCCESs integrated assessment model, which is a new, lightweight optimization model designed to evaluate global climate change solutions (Ekholm et al., 2024, manuscript in preparation). 
 
-It calculates long-term scenarios from 2020 to 2100, addressing global needs for products and services that impact the climate, such as transportation, plant and livestock-based foods, fossil and renewable energy, and bio-based and fossil materials for industry and construction. 
+It calculates scenarios from 2020 to 2100, fulfilling global needs for products and services that impact the climate, such as transportation, plant and livestock-based foods, fossil and renewable energy, and bio-based and fossil materials for industry and construction. 
 
 The model's outputs include the projected global temperature rise above pre-industrial levels, emissions of CO2, CH4, and N2O, and the composition of the energy mix.
 <br><br>
