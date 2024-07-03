@@ -12,7 +12,11 @@ layout: default
 </div>
 <br><br>
 
-![SuCCESs Major Biomes](images/success_biomes.png){: width="700px"}
+<div style="text-align: center;">
+  
+  ![SuCCESs Major Biomes](images/success_biomes.png){: width="700px"}
+  
+</div>
 
 
 <br><br>
