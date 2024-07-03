@@ -13,7 +13,7 @@ layout: default
 <br><br>
 
 
-<div style="text-align: center"><img src="images/success_biomes.png" width="50%" /></div>
+<div style="text-align: center"><img src="images/success_biomes.png" width="75%" /></div>
 
 
 
