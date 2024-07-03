@@ -11,7 +11,8 @@ layout: default
   </i>
 
 <br><br>
-![SuCCESs Major Biomes](images/success_biomes.png){: width="800px"}
+
+![SuCCESs Major Biomes](images/success_biomes.png){: width="700px"}
 
 </div>
 <br><br>
