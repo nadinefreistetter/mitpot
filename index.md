@@ -12,9 +12,9 @@ layout: default
 </div>
 <br><br>
 
-<p align="center"">
-   <img src="images/success_biomes.png" width="10%" />
-</p>
+
+<div style="text-align: center"><img src="images/success_biomes.png" width="50%" /></div>
+
 
 
 
