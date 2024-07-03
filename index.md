@@ -4,10 +4,14 @@ layout: default
 ---
 <br>
 <div style="text-align: center;">
-<i> How much can global land contribute to climate change mitigation under varying land-consuming lifestyles? </i>
+  <i> 
+    How much can global land 
+    contribute to climate change mitigation 
+    under varying land-consuming lifestyles? 
+  </i>
 </div>
 <br><br>
-![Success Major Biomes](images/success_biomes.png){: width="500px"}
+![Success Major Biomes](images/success_biomes.png){: width="800px"}
 
 
 <br><br>
