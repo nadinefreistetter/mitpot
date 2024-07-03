@@ -24,7 +24,7 @@ It calculates long-term scenarios from 2020 to 2100, addressing global needs for
 
 The model's outputs include the projected global temperature rise above pre-industrial levels, emissions of CO2, CH4, and N2O, and the composition of the energy mix.
 <br><br>
-![Success Schematic](images/success_schematic_cute.png){: width="800px"}
+![Success Schematic](images/success_schematic_cute.png){: width="700px"}
 <br><br>
 The model has four main parts: Energy, Materials, Land-Use and Climate. These parts enable a broad analysation of feedback mechanisms of employing one or multiple mitigation strategies at once.
 <br>
