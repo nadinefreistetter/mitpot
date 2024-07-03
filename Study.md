@@ -1,7 +1,9 @@
 ---
 title: The Study
 layout: page
+permalink: /study/
 ---
+
 <br>
 These pages show results of a study on the global climate mitigation performance of land, conducted by Freistetter et al. (2024, manuscript in preparation).
 <br><br>
