@@ -2,5 +2,5 @@ title: Global Land Mitigation Potential
 description: Long-term Scenarios <br>Interactive Plots & <br>Supplementary Material <br><br>from <br>Freistetter et al. <br>(2024, manuscript in <br>preparation)
 theme: minima
 header_pages:
-  - IA_Fig_3.html
+  - Figures.md
   - about.md
